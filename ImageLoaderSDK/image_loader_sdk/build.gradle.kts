@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "hr.foi.air.image_loader"
+    namespace = "hr.foi.air.image_loader_sdk"
     compileSdk {
         version = release(36)
     }
